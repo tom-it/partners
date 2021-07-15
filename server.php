@@ -1,5 +1,5 @@
 <?php
-
+var_dump("Ik ben niet Rick van Drongelen");
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
